@@ -1,0 +1,58 @@
+body {
+    background-color: #33FF00; 
+ height: 100%;                    
+    margin: 0;                       
+    display: flex;                    
+    flex-direction: column; 
+}
+
+p {
+color:#6600FF; 
+}
+
+.cerny {
+  color: black;
+}
+
+.zluty {
+  color: yellow;
+}
+
+.cerveny {
+  color: red;
+}
+
+.hornicara {
+    background-color: #0000FF; 
+    color: black;               
+    text-align: center;         
+    padding: 10px 0;           
+    font-size: 20px;            
+    font-weight: bold;          
+}
+
+.hornicara2 {
+    background-color: #FFFF66; 
+    color: black;               
+    text-align: center;         
+    padding: 10px 0;           
+    font-size: 20px;            
+    font-weight: bold;          
+}
+
+
+
+.spodnicara {
+    background-color: #FF3300; 
+    color: black;               
+    text-align: center;         
+    padding: 10px 0;           
+    font-size: 20px;            
+    font-weight: bold;                   
+
+}
+
+
+.centered-heading {
+    text-align: center;
+}
